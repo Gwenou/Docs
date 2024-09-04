@@ -16,8 +16,5 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-
-   usage
-   api
-   Introduction
+.. autosummary::
+   :toctree: generated
